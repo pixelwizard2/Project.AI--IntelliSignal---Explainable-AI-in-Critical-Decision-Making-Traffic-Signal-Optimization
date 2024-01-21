@@ -87,14 +87,16 @@ Future research will focus on enhancing the current model's performance through 
 ※ As an example of an advanced algorithm, it is judged to be good to select those suitable for real-time decision-making problems such as traffic signal optimization, and it is expected that one of the algorithms below will be selected.
 
 
-Advanced Algorithms for Consideration:
+## Advanced Algorithms for Consideration:
 
-Deep Neural Networks (DNNs): Excellent for learning complex patterns and relationships, especially Convolutional Neural Networks (CNNs) for processing visual data like traffic camera feeds.
+- **Deep Neural Networks (DNNs):** Excellent for learning complex patterns and relationships, especially Convolutional Neural Networks (CNNs) for processing visual data like traffic camera feeds.
 
-Reinforcement Learning: Useful for learning optimal action strategies through system-environment interactions, especially for determining optimal traffic signal timings in real-time conditions.
+- **Reinforcement Learning:** Useful for learning optimal action strategies through system-environment interactions, especially for determining optimal traffic signal timings in real-time conditions.
 
-Ensemble Learning: Combining predictions from multiple models for more accurate results, such as using random forests and gradient boosting.
+- **Ensemble Learning:** Combining predictions from multiple models for more accurate results, such as using random forests and gradient boosting.
 
-LSTM (Long Short-Term Memory) Networks: A type of Recurrent Neural Network (RNN) suitable for processing time-series data, ideal for understanding and predicting temporal changes in traffic flow.
+- **LSTM (Long Short-Term Memory) Networks:** A type of Recurrent Neural Network (RNN) suitable for processing time-series data, ideal for understanding and predicting temporal changes in traffic flow.
+
+
 
 The project aims to use these algorithms for powerful performance in real-time data processing and complex decision-making tasks.
