@@ -28,7 +28,7 @@ Explainable AI allows users to understand and trust the decisions made by AI. Th
 
 ![1](https://github.com/pixelwizard2/Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Traffic-Signal-Optimization/assets/138272416/56a144aa-9334-43c9-acdc-a40022289b7a)
 
-<br> <br>
+<br>
 
 ## 4. Methodology (방법론)
 
@@ -119,3 +119,5 @@ Future research will focus on enhancing the current model's performance through 
 ![7](https://github.com/pixelwizard2/Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Traffic-Signal-Optimization/assets/138272416/efd06224-ce16-4268-9cc8-8956ba97dba1)
 
 ※ The project aims to use these algorithms for powerful performance in real-time data processing and complex decision-making tasks.
+
+![배너3](https://github.com/pixelwizard2/Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Traffic-Signal-Optimization/assets/138272416/c5ab066e-ab71-4a5e-be38-a243d2077988)
