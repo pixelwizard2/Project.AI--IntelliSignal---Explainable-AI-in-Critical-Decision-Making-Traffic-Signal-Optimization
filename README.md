@@ -1,8 +1,10 @@
 # Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Real-Time-Traffic-Signal-Optimization
 _설명 가능한 인공지능을 이용한 의사결정 - 실시간 교통 신호 최적화(XAI)_
-
-
-
+<p align="right">
+  <a href="https://blog.naver.com/pixelwizard/223301473363">
+    <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
+  </a> </p>  
+  
 ## 1. Inspiration (발상)
 
 This research explores the application of Explainable Artificial Intelligence (AI) in optimizing real-time traffic signal systems. Traffic lights are a crucial component in managing the flow of urban traffic. However, traditional signal systems, relying on fixed timing or basic sensor inputs, fail to adapt to the dynamic changes in real-time traffic conditions, often leading to wasted time and resources.
