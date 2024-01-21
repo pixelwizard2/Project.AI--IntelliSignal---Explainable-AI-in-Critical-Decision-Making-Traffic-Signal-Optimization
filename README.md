@@ -3,9 +3,10 @@ _설명 가능한 인공지능을 이용한 의사결정 - 실시간 교통 신�
 <p align="right">
   <a href="https://blog.naver.com/pixelwizard/223301473363">
     <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
-  </a> </p>  
+  </a> </p>
   
   ![배너1](https://github.com/pixelwizard2/Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Traffic-Signal-Optimization/assets/138272416/2ff6021c-df26-4f14-ac4d-b3149ef6375a)
+
   
 ## 1. Inspiration (발상)
 
@@ -23,6 +24,7 @@ Traffic lights play a critical role in smoothing traffic flow and preventing acc
 
 Explainable AI allows users to understand and trust the decisions made by AI. This is particularly important in areas requiring critical decision-making. In this research, this technology is applied to traffic system optimization, making the decision-making process of traffic lights understandable.
 
+![1](https://github.com/pixelwizard2/Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Traffic-Signal-Optimization/assets/138272416/56a144aa-9334-43c9-acdc-a40022289b7a)
 
 ## 4. Methodology (방법론)
 
@@ -38,19 +40,21 @@ The developed system will effectively respond to real-time traffic conditions, i
 
 This research aims to explore the potential of explainable AI in real-time traffic signal optimization, contributing significantly to the efficiency of urban traffic systems. Future studies will focus on integrating more diverse data sources and developing more complex AI models to enhance system accuracy and reliability.
 
-※ Research period: 2023.09.14 ~ Present
+**※ Research period: 2023.09.14 ~ Present**
 
-※ Progress: 
+**※ Progress:**
 1) Completed selection of detailed topic and summary of research goal direction.
 2) We plan to secure traffic data and real-time intersection CCTV API for sections where traffic jams frequently occur and proceed with model learning.
 3) After collecting the maximum amount of appearance data for each vehicle by CCTV shooting angle (including 'front', 'rear', 'side' side & 'night driving' photos for each vehicle), future direction will be re-established after model performance evaluation
 
+![2](https://github.com/pixelwizard2/Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Traffic-Signal-Optimization/assets/138272416/eb7373b6-8f4c-484b-8541-103db2b826f8)
+![3](https://github.com/pixelwizard2/Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Traffic-Signal-Optimization/assets/138272416/0b0495b8-0f1a-432f-84fb-0f8e674a15a8)
 
 ## 7. Data Analysis Methodology and Modeling (데이터 분석 방법론 및 모델링)
 
 The research involves several steps in analyzing and modeling traffic data. The first step is to understand the basic statistics and distribution of the data, identifying quality, anomalies, and missing values. 
 
-
+![4](https://github.com/pixelwizard2/Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Traffic-Signal-Optimization/assets/138272416/58dda005-80df-41cf-8d61-658d374d4645)
 
 The second step involves designing machine learning models to learn the relationship between traffic volume and signal timings. The final step is to evaluate the model's performance and validate its applicability in real traffic conditions.
 
@@ -59,7 +63,7 @@ The second step involves designing machine learning models to learn the relation
 
 The research emphasizes data visualization to enhance system efficiency, developing a dashboard that intuitively displays real-time traffic flow, traffic light statuses, and congestion areas. 
 
-
+![5](https://github.com/pixelwizard2/Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Traffic-Signal-Optimization/assets/138272416/75fb0ae0-8399-407a-a1f1-42719b03f5c6)
 
 This provides useful information for both decision-makers and general users, aiding in understanding AI decisions. The user interface should be intuitive and easy to use, designed for accessible information interpretation.
 
@@ -73,8 +77,7 @@ Ethical considerations are crucial when integrating AI into traffic systems. Thi
 
 Once a sufficient dataset is gathered, the research plans to provide examples of AI model implementation and its application in real-time systems using Python on Google Colab. 
 
-
-
+![6](https://github.com/pixelwizard2/Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Traffic-Signal-Optimization/assets/138272416/4df0a470-2abb-4739-813e-f01d137d13ce)
 
 Initially, a simple decision tree model will be implemented to analyze traffic data and determine traffic light timings.
 
@@ -101,6 +104,6 @@ Future research will focus on enhancing the current model's performance through 
 
 - **LSTM (Long Short-Term Memory) Networks:** A type of Recurrent Neural Network (RNN) suitable for processing time-series data, ideal for understanding and predicting temporal changes in traffic flow.
 
-
+![7](https://github.com/pixelwizard2/Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Traffic-Signal-Optimization/assets/138272416/efd06224-ce16-4268-9cc8-8956ba97dba1)
 
 The project aims to use these algorithms for powerful performance in real-time data processing and complex decision-making tasks.
