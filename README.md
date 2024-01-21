@@ -77,7 +77,7 @@ Initially, a simple decision tree model will be implemented to analyze traffic d
 Further project developments will apply more complex data and models depending on model performance.
 
 
-# 11. Current Progress and Future Outlook (현재까지의 마무리 및 향후 전망)
+## 11. Current Progress and Future Outlook (현재까지의 마무리 및 향후 전망)
 
 The research has completed the initial phase of successfully applying explainable AI to optimize real-time traffic signal systems. The results indicate AI's tremendous potential in revolutionizing the efficiency of urban traffic systems, especially the real-time data processing and dynamic decision-making capabilities of AI-based systems.
 
