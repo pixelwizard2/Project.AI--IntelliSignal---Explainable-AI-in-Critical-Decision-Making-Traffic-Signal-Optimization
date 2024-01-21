@@ -14,11 +14,13 @@ This research explores the application of Explainable Artificial Intelligence (A
 
 The goal of this research is to develop an AI system that processes and analyzes real-time data to dynamically adjust traffic light timings using AI-based approaches.
 
+<br> br>
 
 ## 2. Introduction (서론)
 
 Traffic lights play a critical role in smoothing traffic flow and preventing accidents in urban traffic systems. Most current systems use fixed signal timings or simple sensors, which are ineffective in responding to real-time changes in traffic volume, sometimes causing congestion. This research proposes a real-time traffic signal optimization system using explainable AI technologies to address these issues.
 
+<br> br>
 
 ## 3. Theoretical Background (이론적 배경)
 
@@ -26,15 +28,19 @@ Explainable AI allows users to understand and trust the decisions made by AI. Th
 
 ![1](https://github.com/pixelwizard2/Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Traffic-Signal-Optimization/assets/138272416/56a144aa-9334-43c9-acdc-a40022289b7a)
 
+<br> br>
+
 ## 4. Methodology (방법론)
 
 This study collects real-time traffic data and inputs it into AI models to determine the optimal signal timings. The used AI models include decision trees, random forests, and neural networks. These models consider various factors like traffic volume, accidents, and weather to adjust traffic light timings.
 
+<br> br>
 
 ## 5. Expected Results (예상 결과)
 
 The developed system will effectively respond to real-time traffic conditions, improving traffic flow and reducing congestion compared to traditional systems. It will also provide an explainable interface that allows users to understand the AI's decision-making process.
 
+<br> br>
 
 ## 6. Future Research Directions (향후 연구 진행 방향)
 
@@ -50,6 +56,8 @@ This research aims to explore the potential of explainable AI in real-time traff
 ![2](https://github.com/pixelwizard2/Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Traffic-Signal-Optimization/assets/138272416/eb7373b6-8f4c-484b-8541-103db2b826f8)
 ![3](https://github.com/pixelwizard2/Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Traffic-Signal-Optimization/assets/138272416/0b0495b8-0f1a-432f-84fb-0f8e674a15a8)
 
+<br> br>
+
 ## 7. Data Analysis Methodology and Modeling (데이터 분석 방법론 및 모델링)
 
 The research involves several steps in analyzing and modeling traffic data. The first step is to understand the basic statistics and distribution of the data, identifying quality, anomalies, and missing values. 
@@ -58,6 +66,7 @@ The research involves several steps in analyzing and modeling traffic data. The 
 
 The second step involves designing machine learning models to learn the relationship between traffic volume and signal timings. The final step is to evaluate the model's performance and validate its applicability in real traffic conditions.
 
+<br> br>
 
 ## 8. Data Visualization and User Interface (데이터 시각화 및 사용자 인터페이스)
 
@@ -67,11 +76,13 @@ The research emphasizes data visualization to enhance system efficiency, develop
 
 This provides useful information for both decision-makers and general users, aiding in understanding AI decisions. The user interface should be intuitive and easy to use, designed for accessible information interpretation.
 
+<br> br>
 
 ## 9. Ethical Considerations and Social Responsibility (윤리적 고려사항 및 사회적 책임)
 
 Ethical considerations are crucial when integrating AI into traffic systems. This research focuses on data privacy, preventing model biases, and ensuring decision-making transparency. The AI system must be developed and used responsibly, continually reviewing ethical standards and enhancing communication with stakeholders.
 
+<br> br>
 
 ## 10. Implementation and Code Examples (실제 구현 및 코드 예시)
 
@@ -83,6 +94,7 @@ Initially, a simple decision tree model will be implemented to analyze traffic d
 
 Further project developments will apply more complex data and models depending on model performance.
 
+<br> br>
 
 ## 11. Current Progress and Future Outlook (현재까지의 마무리 및 향후 전망)
 
@@ -106,4 +118,4 @@ Future research will focus on enhancing the current model's performance through 
 
 ![7](https://github.com/pixelwizard2/Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Traffic-Signal-Optimization/assets/138272416/efd06224-ce16-4268-9cc8-8956ba97dba1)
 
-The project aims to use these algorithms for powerful performance in real-time data processing and complex decision-making tasks.
+※ The project aims to use these algorithms for powerful performance in real-time data processing and complex decision-making tasks.
