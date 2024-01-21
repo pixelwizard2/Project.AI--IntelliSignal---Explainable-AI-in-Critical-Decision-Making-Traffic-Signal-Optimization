@@ -4,6 +4,7 @@ _설명 가능한 인공지능을 이용한 의사결정 - 실시간 교통 신�
   <a href="https://blog.naver.com/pixelwizard/223301473363">
     <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
   </a> </p>  
+  ![배너1](https://github.com/pixelwizard2/Project.AI--IntelliSignal---Explainable-AI-in-Critical-Decision-Making-Traffic-Signal-Optimization/assets/138272416/2ff6021c-df26-4f14-ac4d-b3149ef6375a)
   
 ## 1. Inspiration (발상)
 
